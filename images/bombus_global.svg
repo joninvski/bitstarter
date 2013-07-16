@@ -17,8 +17,8 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="bombus_global.svg"
    inkscape:export-filename="/home/workspace/coursera/startup/node-js-sample/images/bombus_global.jpg.png"
-   inkscape:export-xdpi="150.10001"
-   inkscape:export-ydpi="150.10001">
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -1082,8 +1082,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="231.70444"
-     inkscape:cy="185.77101"
+     inkscape:cx="222.10692"
+     inkscape:cy="151.98262"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1126,10 +1126,10 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M -61.953792,181.53787 -166.76473,1.8508396e-7 -61.953793,-181.53787 l 209.621873,0 L 252.47902,-8.1824851e-7 147.66808,181.53787 z"
-       transform="matrix(0.67738147,0,0,0.67738147,265.63978,906.25375)" />
+       transform="matrix(0.67738147,0,0,0.67738147,261.63978,908.25375)" />
     <g
        id="g8082"
-       transform="matrix(0.32758513,0,0,0.32758513,402.68757,858.52719)">
+       transform="matrix(0.32758513,0,0,0.32758513,398.68757,860.52719)">
       <path
          style="fill:url(#linearGradient8069);stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 236.54556,96.616615 c 3.46504,12.033115 2.41094,26.011325 -5.54415,36.096675 -7.0385,9.1637 -18.78673,15.04598 -30.45241,13.44562 -11.45449,-0.82031 -23.83001,-2.16694 -33.11761,-9.61336 -5.15113,-4.08526 -7.57895,-10.58445 -7.92201,-16.98981 -0.93416,-8.73307 -3.69632,-17.63314 -1.53896,-26.378518 1.97307,-7.393904 9.73307,-10.802828 16.60342,-12.188681 12.42072,-2.207053 25.22985,-3.246703 37.77988,-1.516886 8.87751,1.305577 18.63785,4.873709 22.81416,13.453139 0.5785,1.181706 1.03576,2.421663 1.37768,3.691821 z"
@@ -1280,7 +1280,7 @@
     </g>
     <g
        id="g8082-6"
-       transform="matrix(0.20180315,0,0,0.20180315,349.14325,753.33225)">
+       transform="matrix(0.20180315,0,0,0.20180315,345.14325,755.33225)">
       <path
          style="fill:url(#linearGradient8069-9);stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 236.54556,96.616615 c 3.46504,12.033115 2.41094,26.011325 -5.54415,36.096675 -7.0385,9.1637 -18.78673,15.04598 -30.45241,13.44562 -11.45449,-0.82031 -23.83001,-2.16694 -33.11761,-9.61336 -5.15113,-4.08526 -7.57895,-10.58445 -7.92201,-16.98981 -0.93416,-8.73307 -3.69632,-17.63314 -1.53896,-26.378518 1.97307,-7.393904 9.73307,-10.802828 16.60342,-12.188681 12.42072,-2.207053 25.22985,-3.246703 37.77988,-1.516886 8.87751,1.305577 18.63785,4.873709 22.81416,13.453139 0.5785,1.181706 1.03576,2.421663 1.37768,3.691821 z"
@@ -1431,7 +1431,7 @@
     </g>
     <g
        id="g8082-5"
-       transform="matrix(0.20180315,0,0,0.20180315,200.11933,753.33225)">
+       transform="matrix(0.20180315,0,0,0.20180315,196.11933,755.33225)">
       <path
          style="fill:url(#linearGradient8069-92);stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 236.54556,96.616615 c 3.46504,12.033115 2.41094,26.011325 -5.54415,36.096675 -7.0385,9.1637 -18.78673,15.04598 -30.45241,13.44562 -11.45449,-0.82031 -23.83001,-2.16694 -33.11761,-9.61336 -5.15113,-4.08526 -7.57895,-10.58445 -7.92201,-16.98981 -0.93416,-8.73307 -3.69632,-17.63314 -1.53896,-26.378518 1.97307,-7.393904 9.73307,-10.802828 16.60342,-12.188681 12.42072,-2.207053 25.22985,-3.246703 37.77988,-1.516886 8.87751,1.305577 18.63785,4.873709 22.81416,13.453139 0.5785,1.181706 1.03576,2.421663 1.37768,3.691821 z"
@@ -1582,7 +1582,7 @@
     </g>
     <g
        id="g8082-2"
-       transform="matrix(0.20180315,0,0,0.20180315,122.22045,875.39184)">
+       transform="matrix(0.20180315,0,0,0.20180315,118.22045,877.39184)">
       <path
          style="fill:url(#linearGradient8069-0);stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 236.54556,96.616615 c 3.46504,12.033115 2.41094,26.011325 -5.54415,36.096675 -7.0385,9.1637 -18.78673,15.04598 -30.45241,13.44562 -11.45449,-0.82031 -23.83001,-2.16694 -33.11761,-9.61336 -5.15113,-4.08526 -7.57895,-10.58445 -7.92201,-16.98981 -0.93416,-8.73307 -3.69632,-17.63314 -1.53896,-26.378518 1.97307,-7.393904 9.73307,-10.802828 16.60342,-12.188681 12.42072,-2.207053 25.22985,-3.246703 37.77988,-1.516886 8.87751,1.305577 18.63785,4.873709 22.81416,13.453139 0.5785,1.181706 1.03576,2.421663 1.37768,3.691821 z"
@@ -1733,7 +1733,7 @@
     </g>
     <g
        id="g8082-56"
-       transform="matrix(0.20180315,0,0,0.20180315,200.11933,994.35118)">
+       transform="matrix(0.20180315,0,0,0.20180315,196.11933,996.35118)">
       <path
          style="fill:url(#linearGradient8069-2);stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 236.54556,96.616615 c 3.46504,12.033115 2.41094,26.011325 -5.54415,36.096675 -7.0385,9.1637 -18.78673,15.04598 -30.45241,13.44562 -11.45449,-0.82031 -23.83001,-2.16694 -33.11761,-9.61336 -5.15113,-4.08526 -7.57895,-10.58445 -7.92201,-16.98981 -0.93416,-8.73307 -3.69632,-17.63314 -1.53896,-26.378518 1.97307,-7.393904 9.73307,-10.802828 16.60342,-12.188681 12.42072,-2.207053 25.22985,-3.246703 37.77988,-1.516886 8.87751,1.305577 18.63785,4.873709 22.81416,13.453139 0.5785,1.181706 1.03576,2.421663 1.37768,3.691821 z"
@@ -1884,7 +1884,7 @@
     </g>
     <g
        id="g8082-0"
-       transform="matrix(0.20180315,0,0,0.20180315,349.14325,994.35118)">
+       transform="matrix(0.20180315,0,0,0.20180315,345.14325,996.35118)">
       <path
          style="fill:url(#linearGradient8069-01);stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 236.54556,96.616615 c 3.46504,12.033115 2.41094,26.011325 -5.54415,36.096675 -7.0385,9.1637 -18.78673,15.04598 -30.45241,13.44562 -11.45449,-0.82031 -23.83001,-2.16694 -33.11761,-9.61336 -5.15113,-4.08526 -7.57895,-10.58445 -7.92201,-16.98981 -0.93416,-8.73307 -3.69632,-17.63314 -1.53896,-26.378518 1.97307,-7.393904 9.73307,-10.802828 16.60342,-12.188681 12.42072,-2.207053 25.22985,-3.246703 37.77988,-1.516886 8.87751,1.305577 18.63785,4.873709 22.81416,13.453139 0.5785,1.181706 1.03576,2.421663 1.37768,3.691821 z"
@@ -2036,69 +2036,69 @@
     <text
        xml:space="preserve"
        style="font-size:8.12857819px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:SF Slapstick Comic;-inkscape-font-specification:SF Slapstick Comic"
-       x="8.3375196"
-       y="778.75006"
+       x="4.3375196"
+       y="780.75006"
        id="text6025"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6027"
-         x="8.3375196"
-         y="778.75006"
+         x="4.3375196"
+         y="780.75006"
          style="font-size:20px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">Be Social </tspan><tspan
          sodipodi:role="line"
-         x="8.3375196"
-         y="803.75006"
+         x="4.3375196"
+         y="805.75006"
          style="font-size:20px;font-style:normal;font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="tspan6077">in Your Gamming!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.12857819px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:SF Slapstick Comic;-inkscape-font-specification:SF Slapstick Comic"
-       x="297.22458"
-       y="878.60706"
+       x="293.22458"
+       y="880.60706"
        id="text6029"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="297.22458"
-         y="878.60706"
+         x="293.22458"
+         y="880.60706"
          style="font-size:12.19286633px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="tspan6063"> an online game designed</tspan><tspan
          sodipodi:role="line"
-         x="297.22458"
-         y="893.84814"
+         x="293.22458"
+         y="895.84814"
          style="font-size:12.19286633px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="tspan6065">to be played</tspan><tspan
          sodipodi:role="line"
-         x="297.22458"
-         y="909.08923"
+         x="293.22458"
+         y="911.08923"
          style="font-size:12.19286633px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="tspan6057">with friends and strangers</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.12857819px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
-       x="296.65457"
-       y="839.47565"
+       x="292.65457"
+       y="841.47565"
        id="text6073"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6075"
-         x="296.65457"
-         y="839.47565"
+         x="292.65457"
+         y="841.47565"
          style="font-size:32.51431274px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold">Bombus</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
-       x="296.80063"
-       y="956.07648"
+       x="292.80063"
+       y="958.07648"
        id="text6085"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6087"
-         x="296.80063"
-         y="956.07648"
+         x="292.80063"
+         y="958.07648"
          style="font-size:28px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">all in the same</tspan><tspan
          sodipodi:role="line"
-         x="296.80063"
-         y="991.07648"
+         x="292.80063"
+         y="993.07648"
          style="font-size:28px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="tspan6089">room</tspan></text>
     <text
